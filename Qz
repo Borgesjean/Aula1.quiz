@@ -1,0 +1,140 @@
+AULA1.QUIZ
+
+package aula.hello;
+
+import java.util.Scanner;
+
+public class QUIZ {
+	 public static void main(String ...args) {
+	
+		 Scanner scanner = new Scanner(System.in);
+	    	String nome;
+	    	String questao1;
+	    	String questao2;
+	    	String questao3;
+	    	String questao4;
+	    	String questao5;
+	    	String questao6;
+	    	String questao7;
+	    	String questao8;
+	    	String questao9;
+	    	String questao10;
+	    	String questao11;
+	    	String questao12;
+	    	String questao13;
+	    	String questao14;
+	    	String questao15;
+	    	String questao16;
+	    	String questao17;
+	    	String questao18;
+	    	String questao19;
+	    	String questao20;
+	    	String questao21;
+	    	String questao22;
+	    	String questao23;
+	    	String questao24;
+	    	String questao25;
+	    	
+	    	System.out.println("Olá, poderia me informar o seu nome para iniciar o quiz");
+	    	nome = scanner.nextLine();
+	    	System.out.println(nome);
+	    	
+	    	System.out.println("Quantas horas tem o dia?");
+	    	questao1 = scanner.nextLine();
+	    	System.out.println(questao1);
+	    	
+	    	System.out.println("Quantos dias tem o mês?");
+	    	questao2 = scanner.nextLine();
+	    	System.out.println(questao2);
+	    	
+	    	System.out.println("Quantos minutos tem o dia?");
+	    	questao3 = scanner.nextLine();
+	    	System.out.println(questao3);
+	    	
+	    	System.out.println("Quantos minutos tem 1 hora?");
+	    	questao4 = scanner.nextLine();
+	    	System.out.println(questao4);
+	    	
+	    	System.out.println("Quantos minutos tem o dia?");
+	    	questao5 = scanner.nextLine();
+	    	System.out.println(questao5);
+	    	
+	    	System.out.println("Quantos centimetros tem 1 metro?");
+	    	questao6 = scanner.nextLine();
+	    	System.out.println(questao6);
+	    	
+	    	System.out.println("Com quantos anos pode tirar a carteira de motorista?");
+	    	questao7 = scanner.nextLine();
+	    	System.out.println(questao7);
+	    	
+	    	System.out.println("Qual é o fatorial de 4?");
+	    	questao8 = scanner.nextLine();
+	    	System.out.println(questao8);
+	    	
+	    	System.out.println("Quantos é 10x10?");
+	    	questao9 = scanner.nextLine();
+	    	System.out.println(questao9);
+	    	
+	    	System.out.println("Em que ano foi a ultima copa que o brasil ganhou?");
+	    	questao10 = scanner.nextLine();
+	    	System.out.println(questao10);
+	    	
+	    	System.out.println("Qual a linguagem mais antiga na programação?");
+	    	questao11 = scanner.nextLine();
+	    	System.out.println(questao11);
+	    	
+	    	System.out.println("O felipe é?");
+	    	questao12 = scanner.nextLine();
+	    	System.out.println(questao12);
+	    	
+	    	System.out.println("Qual o dia da independencia?");
+	    	questao13 = scanner.nextLine();
+	    	System.out.println(questao13);
+	    	
+	    	System.out.println("Quantos kilos é considerado obeso?");
+	    	questao14 = scanner.nextLine();
+	    	System.out.println(questao14);
+	    	
+	    	System.out.println("Qual a capital de rondonia?");
+	    	questao15 = scanner.nextLine();
+	    	System.out.println(questao15);
+	    	
+	    	System.out.println("Quantos KB tem 1 mega?");
+	    	questao16 = scanner.nextLine();
+	    	System.out.println(questao16);
+	    	
+	    	System.out.println("Qual o melhor jogador do brasil?");
+	    	questao17 = scanner.nextLine();
+	    	System.out.println(questao17);
+	    	
+	    	System.out.println("Quem venceu a ultima eleição");
+	    	questao18 = scanner.nextLine();
+	    	System.out.println(questao18);
+	    	
+	    	System.out.println("AMD é melhor que intel?");
+	    	questao19 = scanner.nextLine();
+	    	System.out.println(questao19);
+	    	
+	    	System.out.println("Em que ano o brasil ganhou no major de counter-strike?");
+	    	questao20 = scanner.nextLine();
+	    	System.out.println(questao20);
+	    	
+	    	System.out.println("Qual ano o brasil o 7 a 1 da alemanha?");
+	    	questao21 = scanner.nextLine();
+	    	System.out.println(questao21);
+	    	
+	    	System.out.println("Qual a cotação do dolar?");
+	    	questao22 = scanner.nextLine();
+	    	System.out.println(questao22);
+	    	
+	    	System.out.println("Qual a cotação do euro?");
+	    	questao23 = scanner.nextLine();
+	    	System.out.println(questao23);
+	    	
+	    	System.out.println("Quantos é o salário minimo?");
+	    	questao24 = scanner.nextLine();
+	    	System.out.println(questao24);
+	    	
+	    	System.out.println("Qual é o valor minimo que um programador pode ganhar?");
+	    	questao25 = scanner.nextLine();
+	    	System.out.println(questao25);
