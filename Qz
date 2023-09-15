@@ -1,12 +1,9 @@
-AULA1.QUIZ
-
-package aula.hello;
-
+package aula;
 import java.util.Scanner;
 
-public class QUIZ {
-	 public static void main(String ...args) {
-	
+public class aula_1 {
+	public static void main(String ...args) {
+		
 		 Scanner scanner = new Scanner(System.in);
 	    	String nome;
 	    	String questao1;
@@ -83,11 +80,11 @@ public class QUIZ {
 	    	questao11 = scanner.nextLine();
 	    	System.out.println(questao11);
 	    	
-	    	System.out.println("O felipe é?");
+	    	System.out.println("Quantas horas leva para o planeta dar uma volta?");
 	    	questao12 = scanner.nextLine();
 	    	System.out.println(questao12);
 	    	
-	    	System.out.println("Qual o dia da independencia?");
+	    	System.out.println("Qual o dia da Independência?");
 	    	questao13 = scanner.nextLine();
 	    	System.out.println(questao13);
 	    	
@@ -138,3 +135,6 @@ public class QUIZ {
 	    	System.out.println("Qual é o valor minimo que um programador pode ganhar?");
 	    	questao25 = scanner.nextLine();
 	    	System.out.println(questao25);
+
+}
+}
